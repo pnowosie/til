@@ -7,4 +7,4 @@ Even my primary editor of choice VS Code has slightly different keys on mac.
 
 I can learn all of this key again, but I cannot train my muscle memory to switch every time I switch the platform.
 
-In this repo I'll keep the things I'm learning. It meant to be usefull for me only, so yor reading this at your own responsibility ;)
+In this repo I'll keep the things I'm learning. It meant to be usefull for me only, so you're reading this at your own responsibility ;)
