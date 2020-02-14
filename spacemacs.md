@@ -1,43 +1,42 @@
 VIM Basics
 ---
 
-hjkl - moving cursor
-C-f / C-b - scroll page fwd (down) / bwd (up)
-C-d (down) / C-u (up) - scroll half page
+- hjkl - moving cursor
+- C-f / C-b - scroll page fwd (down) / bwd (up)
+- C-d (down) / C-u (up) - scroll half page
 
 
-S bd - buffer del
-S wd - window del
+- S bd - buffer del
+- S wd - window del
 
-S qq - quit spacemacs
+- S qq - quit spacemacs
 
 
 ADM
 ---
-S fed - find dotfile
-S fe R - sync config install new packages
+- S fed - find dotfile
+- S fe R - sync config install new packages
 
-S fs - file save
+- S fs - file save
 
-S zf - transient zoom +/- font size
+- S zf - transient zoom +/- font size
 
 
 NAVIGACJA
 ---
-S pf - fuzzy file find, e.g. "sta co" - podpowiada state/core
-S ff - find file
+- S pf - fuzzy file find, e.g. "sta co" - podpowiada state/core
+- S ff - find file
 
-S bb - change buffer with helm
-S b 1-9 buffer change
+- S bb - change buffer with helm
+- S b 1-9 buffer change
 
 
 EDYCJA
 ---
-S cl - un/comment line
-gg - jump beggining of the file
+- S cl - un/comment line
+- gg - jump beggining of the file
 
-copy text, paste, cut
-
+### copy text, paste, cut
 - Position the cursor where you want to begin cutting.
 - Press v to select characters (or uppercase V to select whole lines, or Ctrl-v to select rectangular blocks).
 - Move the cursor to the end of what you want to cut.
@@ -51,7 +50,7 @@ GIT magit !!!
 ---
 S g s - git status
 
- great desc of available commands: https://www.saltycrane.com/blog/2018/11/magit-spacemacs-evil-magit-notes/#status
+[Great desc of available commands](https://www.saltycrane.com/blog/2018/11/magit-spacemacs-evil-magit-notes/#status)
 
 
 Co bym sie chcial dowiedziec?
