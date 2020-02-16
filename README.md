@@ -1,5 +1,7 @@
 # Today I learned
 
+[[Spacemacs docs](https://github.com/syl20bnr/spacemacs/tree/master/doc)]
+
 ## Motivation
 After a decade long being dotnet person locked in Windows ecosystem I started Ubuntu at work and MacOS at home.
 Quickly I discovered that there are many missing tools I used for years, the ported ones have different keyboard shortcuts.
