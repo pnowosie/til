@@ -5,17 +5,17 @@ Dired mode
 
 Note that 'marking' files lets you operate on multiple files at once when e.g. copying or moving files.
 
- -  RET or f Open file or directory
- -  o Open file in a separate window
- -  ^ Up directory
- -  + Create a directory
- -  R Rename / move
- -  C Copy
- -  M Change file/directory mode (unix file/directory permissions)
- -  d Delete
- -  m Mark
- -  u Unmark / undelete
- -  x 'Expunge' -- i.e. actually delete files/directories marked for deletion
+ -  `RET` or `f` Open file or directory
+ -  `o` Open file in a separate window
+ -  `^` Up directory
+ -  `+` Create a directory
+ -  `R` Rename / move
+ -  `C` Copy
+ -  `M` Change file/directory mode (unix file/directory permissions)
+ -  `d` Delete
+ -  `m` Mark
+ -  `u` Unmark / undelete
+ -  `x` 'Expunge' -- i.e. actually delete files/directories marked for deletion
 
 To create a file just open a new buffer (SPC b N) and save (SPC f s) it wherever you want
 ## How to get help about the mode?
