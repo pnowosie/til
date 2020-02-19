@@ -1,4 +1,4 @@
-Keep window size
+Keep window size during restarts
 ---
 
 Spacemacs doesn't keep previously set window size, you can try paste the code from [??? repo](#)
