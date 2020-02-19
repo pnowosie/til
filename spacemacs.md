@@ -1,3 +1,10 @@
+Tutorials
+---
+
+- [Spacemacs docs](https://github.com/syl20bnr/spacemacs/tree/master/doc)
+- [Seoren videos yt](https://www.youtube.com/channel/UCsJXkw_Ssp-1myJFm4_SMJA)
+- [Spacemacs ABCs yt](https://www.youtube.com/playlist?list=PLrJ2YN5y27KLhd3yNs2dR8_inqtEiEweE)
+
 VIM Basics
 ---
 
@@ -33,8 +40,10 @@ NAVIGACJA
 
 EDYCJA
 ---
-- S cl - un/comment line
+- SPC cl - un/comment line
 - gg - jump beggining of the file
+- o - new line and insert mode (below cursor)
+- O - new line and insert mode (above cursor)
 
 ### copy text, paste, cut
 - Position the cursor where you want to begin cutting.
