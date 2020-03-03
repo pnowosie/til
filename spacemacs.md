@@ -4,6 +4,7 @@ Tutorials
 - [Spacemacs docs](https://github.com/syl20bnr/spacemacs/tree/master/doc)
 - [Seoren videos yt](https://www.youtube.com/channel/UCsJXkw_Ssp-1myJFm4_SMJA)
 - [Spacemacs ABCs yt](https://www.youtube.com/playlist?list=PLrJ2YN5y27KLhd3yNs2dR8_inqtEiEweE)
+- [Spacemacs keybindings](https://gist.github.com/pnowosie/b5f7cf9f6df09cc9f0e797cd2350971c)
 
 VIM Basics
 ---
