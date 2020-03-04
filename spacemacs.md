@@ -46,6 +46,9 @@ EDYCJA
 - o - new line and insert mode (below cursor)
 - O - new line and insert mode (above cursor)
 
+- SPC x J - move current line down (or several lines while selected with `V`)
+- SPC x K - move current line down
+
 ### copy text, paste, cut
 - Position the cursor where you want to begin cutting.
 - Press v to select characters (or uppercase V to select whole lines, or Ctrl-v to select rectangular blocks).
@@ -58,7 +61,7 @@ EDYCJA
 
 GIT magit !!!
 ---
-S g s - git status
+SPC g s - git status
 
 [Great desc of available commands](https://www.saltycrane.com/blog/2018/11/magit-spacemacs-evil-magit-notes/#status)
 
