@@ -49,6 +49,10 @@ EDYCJA
 - SPC x J - move current line down (or several lines while selected with `V`)
 - SPC x K - move current line down
 
+### Indentation (Wciecie)
+- `>` (x2) - indents
+- `<` (x2) - oudents
+
 ### copy text, paste, cut
 - Position the cursor where you want to begin cutting.
 - Press v to select characters (or uppercase V to select whole lines, or Ctrl-v to select rectangular blocks).
