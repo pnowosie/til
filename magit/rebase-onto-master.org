@@ -1,0 +1,13 @@
+* Rebase onto master
+  It just works! I'm surprised how ease it went.
+  
+  - SPC g s - show status
+  - r e - rebase (elsewhere), shows available branches
+  - pick `master` from the list (ENTER)
+  
+  No conflicts - all good. Now you can see your rewritten hostory by rebase and "unpulled" hostory at origin. 
+  We need to push changes to upstream.
+
+  - P push
+  - -F (with force)
+  - u (upstream)
