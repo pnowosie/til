@@ -1,0 +1,17 @@
+* Fixup to a commit
+
+Again this ui is terrific!
+
+- SPC g s
+- s (stage a change)
+- c (commit)
+- f (fixup) / F (fixup & rebase)
+history of commits appears - choose a commit 
+
+- <enter> show the commit changes
+- C-c C-c - do a fixup
+
+* Rebase (auto-squash)
+(in status)
+- r (rebase)
+- f (to autosquash) - __not -F__
