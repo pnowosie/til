@@ -61,7 +61,19 @@ EDYCJA
 - Move to where you would like to paste.
 - Press P to paste before the cursor, or p to paste after.
 
+FIND & REPLACE
+---
 
+### Inside a buffer
+- Vim style `:%s/"co"/"na co`
+- inline change (with curson in Symbol) type `#` then `i` and use vim keys to edit
+
+### Global
+Use `SPC /` for global search or if the searching Symbol is in the buffer highlight it with `#` then `/`
+to show results
+
+(don't hit <Enter>) `C-c C-e` makes result buffer editable, so buffer replace tricks are working 
+  when ready to global replace `C-c C-C` 
 
 GIT magit !!!
 ---
