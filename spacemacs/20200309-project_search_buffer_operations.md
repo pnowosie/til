@@ -1,3 +1,11 @@
+Buffer search
+---
+
+- looking for: `/<type>`
+- looking more of the symbol under cursor `#`
+- looking more of the symbol under cursor (emacs power) `SPC s S` - shows entire lines in separate buffer, so
+move to editable buffer `C-c C-e` works
+
 Global search
 ---
 
