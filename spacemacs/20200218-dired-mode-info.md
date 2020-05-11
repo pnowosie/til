@@ -18,6 +18,14 @@ Note that 'marking' files lets you operate on multiple files at once when e.g. c
  -  `x` 'Expunge' -- i.e. actually delete files/directories marked for deletion
 
 To create a file just open a new buffer (SPC b N) and save (SPC f s) it wherever you want
+
+- `SPC f j` - jump to the dired containing the current file
+
+## Compression
+- `c` - compress, prompts of an archive name
+- `Z` - ask to compress or decompress, replaces current file with the `.gz` archive,
+- <Enter> - see the content of the compressed files (also zips / folders)
+
 ## How to get help about the mode?
 
 Here are a few things you can try to see available keys:
