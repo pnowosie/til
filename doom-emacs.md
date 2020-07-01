@@ -21,3 +21,6 @@
 - `SPC '` - resume last search buffer, both buffer / project (not for `/`) [_ivy resume_] 
 
 
+## Getting help
+
+- `SPC ?` - show commands keybinding
