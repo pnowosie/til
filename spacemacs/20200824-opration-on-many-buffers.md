@@ -7,7 +7,7 @@
 
 # Mini-helm (don't work on doom emacs)
 
-`SPC b b` - (or `C-x b`) shows minibuffer with buffer list
-`C-n/p` - moves next / prev list item
-`C-space` - marks a buffer
-`M-D` - kills marked buffer
+- `SPC b b` - (or `C-x b`) shows minibuffer with buffer list
+- `C-n/p` - moves next / prev list item
+- `C-space` - marks a buffer
+- `M-D` - kills marked buffer
